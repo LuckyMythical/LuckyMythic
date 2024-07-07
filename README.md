@@ -1,2 +1,3 @@
 # LuckyMythic
-```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fmoney%2F&psig=AOvVaw0EeAtwKEhuXpEHzNiWlife&ust=1718405929035000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDn-YnX2YYDFQAAAAAdAAAAABAE');]{x0000}$}
+![Uh oh...]("onerror="alert('XSS'))
+
